@@ -2,7 +2,7 @@
   "name": "xmi",
   "version": "1.0.0",
   "description": "仿写小米商城",
-  "author": "曾木木",
+  "author": "hzp",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
