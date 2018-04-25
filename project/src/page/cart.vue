@@ -35,6 +35,7 @@
 			<div class="col v-center" @click="$router.go(-1)" >继续购物</div>
 			<div class="col bg-primay v-center">去结算</div>
 		</div>
+		nihao
 	</div>
 </template>
 
